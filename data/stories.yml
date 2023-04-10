@@ -136,5 +136,5 @@ stories:
 
 - story: ask professional help
   steps:
-  - intent: ask_ask_professional_help
+  - intent: ask_professional_help
   - action: utter_ask_professional_help

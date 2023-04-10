@@ -21,6 +21,7 @@ intents:
 - ask_paddy_cost
 - ask_paddy_schemas
 - ask_improve_soil_fertility
+- ask_professional_help
 - bot_challenge
 - deny
 - goodbye
@@ -85,6 +86,11 @@ responses:
   utter_improve_soil_fertility:
     - text: To improve the soil fertility of a paddy field, farmers can use organic fertilizers such as compost, manure, and green manure crops. Crop rotation and intercropping with leguminous crops can also improve soil fertility.
     - text: Additionally, farmers can use conservation tillage practices such as minimum tillage and zero tillage to reduce soil erosion and improve soil structure. Maintaining proper water management and avoiding overuse of chemical fertilizers and pesticides can also help maintain soil fertility in the long term.
+  utter_ask_professional_help:
+    - text: Here are some Information on how to contact officials to answer the questions and doubts you have.
+    - text: Agriculture Advisory Service - Call 1920
+    - text: Labuduwa Rice Research Station - Call 0912 244 345
+    - text: Bathalagoda Rice Research and Development Institute -  Call 0372 258 561
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

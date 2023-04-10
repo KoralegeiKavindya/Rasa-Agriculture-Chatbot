@@ -242,3 +242,11 @@ nlu:
     - How can I enhance the fertility of my paddy field soil?
     - What are some ways to increase the productivity of my paddy field through better soil quality?
     - How do I make my paddy field soil more fertile and productive?
+- intent: ask_professional_help
+  examples: | 
+    - Can you suggest some ways for me to obtain more information about the questions I have?
+    - What resources or methods would you recommend for me to find out more information about the questions I have?
+    - What is the best way for me to reach out to a government officer for more information, and how can I get their contact details?
+    - I'm interested in speaking to a government officer to get more information on a specific matter. How can I contact them?
+    - I have some questions and I'd like to do some research on them. What are some ways I can go about getting more information?
+    - Is there a specific process or strategy you would suggest for me to follow to gather more information

@@ -133,3 +133,8 @@ stories:
   steps:
   - intent: ask_improve_soil_fertility
   - action: utter_improve_soil_fertility
+
+- story: ask professional help
+  steps:
+  - intent: ask_ask_professional_help
+  - action: utter_ask_professional_help
